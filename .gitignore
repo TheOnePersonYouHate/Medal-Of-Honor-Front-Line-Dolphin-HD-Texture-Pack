@@ -1,0 +1,8 @@
+*.zip
+*.7z
+*.rar
+__pycache__/
+Thumbs.db
+Desktop.ini
+.DS_Store
+Load/
